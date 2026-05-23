@@ -1,0 +1,67 @@
+name: Saint-Gobain
+description: |
+  Saint-Gobain is a French multinational corporation founded in 1665, headquartered in
+  Courbevoie, France. It designs, manufactures, and distributes materials and solutions
+  for the construction, mobility, healthcare, and industrial markets. The group operates
+  through well-known brands including CertainTeed (North American roofing, insulation,
+  gypsum), Norton (abrasives), Weber (mortars and facades), Placo (plasterboard, France),
+  and ISOVER (insulation). Saint-Gobain trades on Euronext Paris under the ticker SGO and
+  is a component of the CAC 40 and Euro Stoxx 50 indices.
+
+  As a building materials and industrial manufacturer, Saint-Gobain operates no public
+  developer program, API portal, or machine-readable surface. The GitHub organization at
+  github.com/saint-gobain exists but hosts zero public repositories. Any digital
+  integration with customers, distributors, or partners happens through private B2B
+  channels (EDI, custom integrations, e-commerce portals for trade buyers) rather than a
+  documented public API.
+
+  This repo exists in the API Evangelist network as a placeholder record for the
+  company — to mark that the surface area was assessed and found to be absent — rather
+  than to catalog APIs.
+
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/saint-gobain/saint-gobain.png
+url: https://api-evangelist.github.io/saint-gobain/apis.yml
+created: 2026-05-23
+modified: 2026-05-23
+specificationVersion: "0.20"
+
+tags:
+  - Building Materials
+  - Construction
+  - Industrial Manufacturing
+  - Insulation
+  - Glass
+  - Gypsum
+  - Abrasives
+  - Mortars
+  - Roofing
+  - Sustainable Construction
+  - CAC 40
+  - Multinational
+
+apis: []
+
+common:
+  - type: Website
+    url: https://www.saint-gobain.com
+  - type: GitHub
+    url: https://github.com/saint-gobain
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Saint-Gobain
+  - type: StockTicker
+    url: https://www.boursorama.com/cours/1rPSGO/
+  - type: Brand-CertainTeed
+    url: https://www.certainteed.com
+  - type: Brand-Norton
+    url: https://www.nortonabrasives.com
+  - type: Brand-Weber
+    url: https://www.weber-saint-gobain.com
+  - type: Brand-Placo
+    url: https://www.placo.fr
+  - type: Brand-ISOVER
+    url: https://www.isover.com
+
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://kinlane.com
