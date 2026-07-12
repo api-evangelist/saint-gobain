@@ -42,6 +42,10 @@ tags:
 apis: []
 
 common:
+  - type: VulnerabilityDisclosure
+    url: security/saint-gobain-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/saint-gobain-domain-security.yml
   - type: Website
     url: https://www.saint-gobain.com
   - type: GitHub
