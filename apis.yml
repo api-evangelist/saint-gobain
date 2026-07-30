@@ -19,6 +19,17 @@ description: |
   company — to mark that the surface area was assessed and found to be absent — rather
   than to catalog APIs.
 
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/saint-gobain/saint-gobain.png
 url: https://api-evangelist.github.io/saint-gobain/apis.yml
 created: 2026-05-23
