@@ -34,7 +34,7 @@ image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/saint-g
 url: https://api-evangelist.github.io/saint-gobain/apis.yml
 created: 2026-05-23
 modified: 2026-05-23
-specificationVersion: "0.20"
+specificationVersion: '0.23'
 
 tags:
   - Building Materials
