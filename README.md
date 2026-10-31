@@ -64,39 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Saint-Gobain is a French multinational corporation founded in 1665, headquartered in
-Courbevoie, France. It designs, manufactures, and distributes materials and solutions for
-construction, mobility, healthcare, and industrial markets. The group is present in
-roughly 75 countries with approximately 160,000–170,000 employees and trades on Euronext
-Paris under the ticker **SGO** (CAC 40, Euro Stoxx 50).
+Saint-Gobain is a French multinational corporation founded in 1665, headquartered in Courbevoie, France. It designs, manufactures, and distributes materials and solutions for the construction, mobility, healthcare, and industrial markets. The group operates through well-known brands including CertainTeed (North American roofing, insulation, gypsum), Norton (abrasives), Weber (mortars and facades), Placo (plasterboard, France), and ISOVER (insulation). Saint-Gobain trades on Euronext Paris under the ticker SGO and is a component of the CAC 40 and Euro Stoxx 50 indices. As a building materials and industrial manufacturer, Saint-Gobain operates no public developer program, API portal, or machine-readable surface. The GitHub organization at github.com/saint-gobain exists but hosts zero public repositories. Any digital integration with customers, distributors, or partners happens through private B2B channels (EDI, custom integrations, e-commerce portals for trade buyers) rather than a documented public API. This repo exists in the API Evangelist network as a placeholder record for the company — to mark that the surface area was assessed and found to be absent — rather than to catalog APIs.
 
-Well-known brands in the Saint-Gobain portfolio include:
+**Areas:** Building Materials · Construction · Industrial Manufacturing · Insulation · Glass · Gypsum · Abrasives · Mortars · Roofing · Sustainable Construction · CAC 40 · Multinational
 
-- **CertainTeed** — North American roofing, insulation, gypsum, siding.
-- **Norton** — industrial and consumer abrasives.
-- **Weber** — mortars, tile adhesives, and facade systems.
-- **Placo** — plasterboard and drywall systems (France).
-- **ISOVER** — mineral wool and insulation products.
+## Saint-Gobain on APIs.io
 
-## API surface
+Everything profiled for Saint-Gobain is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/saint-gobain/](https://apis.io/providers/saint-gobain/)** — or go straight to one of the APIs or properties below.
 
-**Zero public APIs.** Saint-Gobain operates no developer portal, API reference, OpenAPI
-catalog, or SDK program. The GitHub organization at
-[github.com/saint-gobain](https://github.com/saint-gobain) exists but hosts no public
-repositories. Any digital integration with distributors, trade customers, or industrial
-partners happens through private B2B channels (EDI, custom integrations, brand-specific
-trade portals) rather than a documented public surface.
+### Published properties
 
-This repository exists in the API Evangelist network as an assessment record — the
-public developer surface was evaluated and confirmed absent — not as a catalog of APIs.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Files
+#### Security (2)
 
-- [`apis.yml`](apis.yml) — APIs.yml record for Saint-Gobain with common properties
-  (website, GitHub, Wikipedia, stock ticker, brand sites).
+Authentication, trust centre, and vulnerability disclosure.
 
-## Links
+- [Saint Gobain Domain Security](https://apis.io/security/saint-gobain/saint-gobain-domain-security/)
+- [Saint Gobain Vulnerability Disclosure](https://apis.io/security/saint-gobain/saint-gobain-vulnerability-disclosure/)
 
-- Corporate site: https://www.saint-gobain.com
-- GitHub: https://github.com/saint-gobain
-- Wikipedia: https://en.wikipedia.org/wiki/Saint-Gobain
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.saint-gobain.com)
+
+## API Evangelist rating
+
+**Kin Score 5.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/saint-gobain/](https://apis.io/providers/saint-gobain/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Saint-Gobain: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/saint-gobain/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
